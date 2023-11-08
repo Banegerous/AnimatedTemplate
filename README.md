@@ -2,4 +2,4 @@
 
 Tailwind CSS kit and AOS animate on scroll project.
 
-LIVE DEMO =>
+LIVE DEMO => https://banegerous.github.io/AnimatedTemplate/
