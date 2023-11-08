@@ -1,2 +1,5 @@
 # AnimatedTemplate
-Tailwind CSS kit and AOS animate on scroll project
+
+Tailwind CSS kit and AOS animate on scroll project.
+
+LIVE DEMO =>
